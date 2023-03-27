@@ -1,0 +1,11 @@
+@import "./variables";
+@import "./transactionAdder";
+
+*{
+    transition :$smooth;
+}
+
+.flag{
+    width:4%;
+    height:100%;
+}
